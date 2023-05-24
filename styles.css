@@ -1,0 +1,14 @@
+button{
+    border-radius: 0.5vw;
+}
+
+.white {
+    background-color: white;
+    color: black;
+}
+
+
+.darkmode {
+    color: white;
+   background-color: black;
+}
