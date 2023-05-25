@@ -1,4 +1,6 @@
-const token = "4cd983c04e9d5a4430df2943db819673c816a837b8a5cbb2dede61e5fccf49f9"
+const token = "3b7afe142c4f7ea95006428acd1a459820c1ce92ce36895b5d4888dcd3ebaa7e"
+
+
 const url ='https://api.meteo-concept.com/api/forecast/daily?token='+token+'&insee=59350';
 let body = document.querySelector("body");
 
